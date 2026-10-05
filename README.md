@@ -7,7 +7,7 @@ I kept each notebook focused on the important concepts and added short notes bef
 ## Contents
 
 ### Part 1 - K-Means and Its Variations
-Notebook: `Part1_KMeans_and_Variations_Revision_Notes.ipynb`
+Notebook: `Part1_KMeans_and_Variations_Notes.ipynb`
 
 Topics covered:
 - Lloyd's K-Means from scratch
@@ -144,12 +144,12 @@ Special runtime requirements:
 
 | Part | Video |
 | --- | --- |
-| Part 1 - K-Means | Add link |
-| Part 2 - AutoGluon Capabilities | Add link |
-| Part 3 - AutoGluon End-to-End ML | Add link |
-| Part 4 - NVIDIA RAPIDS | Add link |
-| Part 5 - PyCaret Capabilities | Add link |
-| Part 6 - PyCaret MLOps | Add link |
+| Part 1 - K-Means | https://youtu.be/XW5lx2QGLCI |
+| Part 2 - AutoGluon Capabilities | https://youtu.be/MSIo6TtnsmI |
+| Part 3 - AutoGluon End-to-End ML | https://youtu.be/F8EYwiBPeDw |
+| Part 4 - NVIDIA RAPIDS | https://youtu.be/sE0OlGrMDPU |
+| Part 5 - PyCaret Capabilities | https://youtu.be/T_kA3HzJ6ns |
+| Part 6 - PyCaret MLOps | https://youtu.be/-Q6bJ9gPRgM |
 
 ## Overall Takeaway
 
